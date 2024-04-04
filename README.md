@@ -1,4 +1,4 @@
-# GB_Immersion_Python
+# GB_Immersion_Python_1
 Домашняя работа к семинару "Погружение в Python"
 
 ## Урок 1. Основы Python
