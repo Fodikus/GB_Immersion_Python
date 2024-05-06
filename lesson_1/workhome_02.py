@@ -7,6 +7,7 @@
 a = int(input(f"Сторона a : "))
 b = int(input(f"Сторона b : "))
 c = int(input(f"Сторона c : "))
+
 if a > b > c:
     print("Треугольник разносторонний")
 elif a == b or a == c or b == c: 
